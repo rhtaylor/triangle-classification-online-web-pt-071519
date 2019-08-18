@@ -17,6 +17,7 @@ else
     :equilateral
   end
 end
+end
   class CustomEr < StandardError
     def message
       "FUCK BRO KEEP GOING, Go!, GO!, GO!"
